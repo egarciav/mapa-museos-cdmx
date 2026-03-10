@@ -5,11 +5,10 @@ Mapa interactivo de todos los museos de la Ciudad de Mexico construido con React
 ## Caracteristicas
 
 - Mapa interactivo con tiles de CARTO/OpenStreetMap (gratis)
-- 20 museos de la CDMX con marcadores personalizados por categoria
+- Museos de la CDMX con marcadores personalizados por categoria
 - Clic en cada marcador: nombre, descripcion, direccion, horario y costo
 - Buscador y filtros por categoria en el sidebar
-- Disenio responsivo (desktop y movil)
-- Listo para publicar en GitHub Pages
+- Diseño responsivo (desktop y movil)
 
 ## Correr localmente
 
