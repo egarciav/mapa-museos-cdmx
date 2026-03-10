@@ -26,23 +26,6 @@ Abre http://localhost:5173 en tu navegador.
 - TailwindCSS v4
 - gh-pages (deploy a GitHub Pages)
 
-## Publicar en GitHub Pages
-
-1. Crea un repositorio en GitHub y agregalo como remoto:
-
-    git init
-    git remote add origin https://github.com/TU_USUARIO/museos-cdmx.git
-    git add .
-    git commit -m "first commit"
-    git push -u origin main
-
-2. Publica con un solo comando:
-
-    npm run deploy
-
-   Esto construye el proyecto y lo sube a la rama gh-pages automaticamente.
-
-3. En tu repositorio de GitHub, ve a Settings > Pages y selecciona la rama gh-pages.
 
 ## Museos incluidos (20 museos)
 
